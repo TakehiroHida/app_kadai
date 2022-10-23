@@ -20,7 +20,14 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: verdana, arial, helvetica, sans-selif;
+    font-size: 13px;
+    line-height: 18px;
+    margin :33px;
+}
 
-p {
-    margin: 33px
+
+th {
+    padding-bottom : 5px;
 }
